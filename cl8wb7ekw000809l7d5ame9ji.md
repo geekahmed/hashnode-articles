@@ -1,4 +1,4 @@
-## Part 02: Building a scalable Jenkins server on a Kubernetes Cluster
+# Part 02: Building a scalable Jenkins server on a Kubernetes Cluster
 
 # Introduction
 In [part 1](https://geekahmed.hashnode.dev/part-01-building-a-scalable-jenkins-server-on-a-kubernetes-cluster), we introduced the system architecture as well as its importance to the business. This part will discuss in-depth the infrastructure implementation using Terraform (IaC). We will dig into the coding of different parts of the system (VPC, Subnets, Helm Releases, etc.). Not to mention the configuration of our star, Jenkins Server, will be also discussed.
