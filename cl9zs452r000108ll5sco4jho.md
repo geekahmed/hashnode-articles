@@ -1,6 +1,6 @@
 # Chapter 01. Introducing Kubernetes - Kubernetes in Action
 
-# 1.0. Introduction
+# 1.0.0 Introduction
 Kubernetes is the trend of deployment platforms these days. More businesses are incorporating Kubernetes into their infrastructure. Why? Kubernetes saves them money and resources. Kubernetes maintains containerized application clusters that would otherwise have to be handled manually. Because of this fact, learning Kubernetes is inevitably essential.
 
 In this series, you will start your learning journey by reading a celebrated book titled "Kubernetes in Action". This book covers the most important concepts in Kubernetes starting from beginner mode to advanced mode.
